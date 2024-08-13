@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: tomtom
-Version: 0.1.1
+Version: 0.1.2
 Summary: Funções para tese de doutorado. Em breve mais.
 Home-page: https://github.com/carloselcastro/tomtom.git
 Author: Carlos Eduardo Leal de Castro
@@ -25,7 +25,6 @@ Requires-Dist: soundfile
 Requires-Dist: IPython
 Requires-Dist: plotly
 Requires-Dist: seaborn
-Requires-Dist: itertools
 Requires-Dist: math
 Requires-Dist: os
 Requires-Dist: notebook

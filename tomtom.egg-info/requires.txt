@@ -9,7 +9,6 @@ soundfile
 IPython
 plotly
 seaborn
-itertools
 math
 os
 notebook
