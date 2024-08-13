@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tomtom',  # Nome como aparecerá no pip
-    version='1.1.1',             # Versão atual
+    version='1.1.2',             # Versão atual
     packages=find_packages(),    # Encontra automaticamente os pacotes de código
     install_requires=[           # Lista de dependências (outros pacotes necessários)
         'numpy', 
@@ -34,6 +34,5 @@ setup(
     'Programming Language :: Python :: 3.9',
     'Programming Language :: Python :: 3.10',
     'Programming Language :: Python :: 3.11',
-    'Programming Language :: Python :: 3.12', 
 ],
 )
