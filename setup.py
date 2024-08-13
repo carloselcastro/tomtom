@@ -17,7 +17,6 @@ setup(
         'IPython',
         'plotly',
         'seaborn',
-        'os',
         'notebook',
         'jupyter'
     ],
