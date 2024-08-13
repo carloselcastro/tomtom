@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tomtom',  # Nome como aparecerá no pip
-    version='0.1.1',             # Versão inicial
+    version='0.1.2',             # Versão atual
     packages=find_packages(),    # Encontra automaticamente os pacotes de código
     install_requires=[           # Lista de dependências (outros pacotes necessários)
         'numpy', 
@@ -17,7 +17,6 @@ setup(
         'IPython',
         'plotly',
         'seaborn',
-        'itertools',
         'math',
         'os',
         'notebook',
