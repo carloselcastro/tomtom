@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='tomtom',  # Nome como aparecerá no pip
-    version='0.1.2',             # Versão atual
+    version='0.1.4',             # Versão atual
     packages=find_packages(),    # Encontra automaticamente os pacotes de código
     install_requires=[           # Lista de dependências (outros pacotes necessários)
         'numpy', 
