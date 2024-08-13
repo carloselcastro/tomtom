@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+statsmodels
+librosa
+soundfile
+IPython
+plotly
+seaborn
+pickle
+itertools
+math
+os
+notebook
+jupyter
